@@ -1,0 +1,33 @@
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(55, 15, 94);
+    padding: left 3pt;
+}
+.one{
+    font-family: serif;
+    padding-left: 2pt;
+    color: brown;
+
+}
+.box{
+    width: 350px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+}
+.about{
+    background-color:rgb(21, 86, 207);color:white;padding:20px;
+}
+table ,td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: #96D4D4; 
+      border:1px solid black;
+  }
+  a:hover {
+    background-color: rgb(124, 185, 243);
+  }
